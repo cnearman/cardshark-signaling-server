@@ -1,0 +1,20 @@
+{
+  "name": "cardshark-signaling-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ffmpeg": "^0.0.4",
+    "socket.io": "^4.1.2",
+    "twilio": "^3.71.1"
+  }
+}
